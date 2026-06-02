@@ -20,6 +20,8 @@ This project analyzes a customer shopping behavior dataset to uncover insights a
 * Gloves lead in customer satisfaction with the highest average rating of **3.86**
 * **Young Adults contribute the most revenue** ($62,143), outpacing Seniors by over $6,000
 * Among repeat buyers (5+ purchases), non-subscribers still outnumber subscribers **2,518 vs 958** — suggesting loyalty programs are underleveraged
+* Jewelry, Blouse, and Sandals are the top sellers in their respective categories 
+  (Accessories, Clothing, Footwear) — Outerwear is dominated by Jacket and Coat
 
 ---
 
