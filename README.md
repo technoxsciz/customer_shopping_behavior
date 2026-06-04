@@ -73,7 +73,7 @@ The notebook handles all data preparation before loading into PostgreSQL:
 
 ---
 
-## 🗄️ SQL Analysis — Business Questions
+## 🗄️ SQL Analysis 
 
 | # | Question | Techniques Used |
 |---|---|---|
