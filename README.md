@@ -16,7 +16,7 @@ This project analyzes a customer shopping behavior dataset to uncover insights a
 * Subscribed and non-subscribed customers spend almost identically on average ($59.49 vs $59.87)  **subscription status does not predict spend**
 * **80% of customers are Loyal** (11+ previous purchases), with only 83 classified as New indicating a highly retained customer base
 * Express shipping customers spend slightly more on average ($60.48) than Standard shipping customers ($58.46)
-* **Hat** is the most discount-driven product — 50% of all Hat purchases involved a discount
+* **Hat** is the most discount-driven product. 50% of all Hat purchases involved a discount
 * Gloves lead in customer satisfaction with the highest average rating of **3.86**
 * **Young Adults contribute the most revenue** ($62,143), outpacing Seniors by over $6,000
 * Among repeat buyers (5+ purchases), non-subscribers still outnumber subscribers **2,518 vs 958** suggesting loyalty programs are underleveraged
